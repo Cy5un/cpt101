@@ -1,2 +1,3 @@
 # cpt101
-Nothing much, just my practice programs of CPT101 course :)
+
+I will be uploading all my assignments of the CPT101 course in this repository.
