@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include <math.h>
 
-void main()
+int main()
 {
     float final, initial, rate;
     int time;
@@ -16,4 +17,5 @@ void main()
 
     final = initial * (rate / 100) * time;
     printf("\nThe Simple Interest is %f\n", final);
+    return (0);
 }
