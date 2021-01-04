@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include <math.h>
 
-void main()
+int main()
 {
     float final, initial, rate;
     int time;
